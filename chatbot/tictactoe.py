@@ -1,4 +1,3 @@
-# chatbot/tictactoe.py
 import random
 
 def imprimir_tablero(tablero):

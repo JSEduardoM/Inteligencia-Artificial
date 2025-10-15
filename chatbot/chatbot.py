@@ -1,4 +1,3 @@
-# chatbot/chatbot.py
 import difflib
 from chatbot.tictactoe import jugar_tres_en_raya
 
